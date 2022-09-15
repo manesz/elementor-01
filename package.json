@@ -1,11 +1,12 @@
 {
-  "name": "elementor-01",
-  "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "name": "สอน elementor",
+  "theme": "สอน elementor",
+  "version": "1.0.2",
+  "description": "Elementor is a plugin that works on-top of WordPress to give you a visual editing experience while building your website. Elementor was designed to enable anyone to create and manage a website without having to know or use code. The plugin takes the coding out of the equation, allow you to focus on how your website will look and function. ",
   "keywords": [
-    "syntax",
-    "theme"
+    "สอน elementor",
+    "elementor",
+    "1"
   ],
   "repository": "https://github.com/atom/elementor-01",
   "license": "MIT",
